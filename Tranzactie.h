@@ -1,6 +1,4 @@
-//
-// Created by Gabriel on 3/28/2023.
-//
+
 
 #ifndef LAB2SD_TRANZACTIE_H
 #define LAB2SD_TRANZACTIE_H

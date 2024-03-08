@@ -1,6 +1,4 @@
-//
-// Created by Gabriel on 5/18/2023.
-//
+
 
 #ifndef LAB2SD_NODE_H
 #define LAB2SD_NODE_H

@@ -1,6 +1,4 @@
-//
-// Created by Gabriel on 5/2/2023.
-//
+
 
 #include "VectorDinamic.h"
 #include <iostream>

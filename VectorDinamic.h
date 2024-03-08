@@ -6,10 +6,6 @@
 #define LAB2SD_VECTORDINAMIC_H
 
 
-//
-// Created by camel on 4/3/2023.
-//\
-
 #include "iostream"
 using namespace std;
 

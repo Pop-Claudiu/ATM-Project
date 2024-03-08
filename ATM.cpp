@@ -1,6 +1,4 @@
-//
-// Created by Gabriel on 3/28/2023.
-//
+
 
 #include "ATM.h"
 #include <iostream>
